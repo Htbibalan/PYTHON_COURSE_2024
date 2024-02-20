@@ -1,7 +1,7 @@
 # PYTHON_COURSE_2024
  
 ## This repositroy is to store notes, data, plots, etc related to the course:
-##<font color ="green">HEL-8048-1 24V Advanced data analysis and visualization using programming</font > at UiT the Arctic University of Norway in Spring 2024
+## <font color ="green">HEL-8048-1 24V Advanced data analysis and visualization using programming</font > at UiT the Arctic University of Norway in Spring 2024
 
 
 
