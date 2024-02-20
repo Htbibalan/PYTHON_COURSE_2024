@@ -16,4 +16,4 @@
 * [Pandas: cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [VScode installation](https://code.visualstudio.com/download)
 * [ANACONDA installation](https://docs.anaconda.com/free/anaconda/install/index.html)
-* [KAGGLE](https://www.kaggle.com/)
+* [KAGGLE](https://www.kaggle.com/){:target="_blank"}
