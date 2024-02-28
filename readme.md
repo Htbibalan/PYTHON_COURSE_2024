@@ -17,3 +17,6 @@
 * [VScode installation](https://code.visualstudio.com/download)
 * [ANACONDA installation](https://docs.anaconda.com/free/anaconda/install/index.html)
 * [KAGGLE](https://www.kaggle.com/)
+* [README_HELP](https://readme.so/editor)
+
+
