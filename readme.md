@@ -19,4 +19,9 @@
 * [KAGGLE](https://www.kaggle.com/)
 * [README_HELP](https://readme.so/editor)
 
+# read more about the history of open soruce community
+[stallmann](https://en.wikipedia.org/wiki/Free_as_in_Freedom)
+[docker](https://www.docker.com/) looks like a good solution for sharing scripts in a reliable way
 
+
+* use color HEX tool to find the HEX code for the desired color , also you can use Google colour picker
