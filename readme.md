@@ -1,4 +1,10 @@
+![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
+
+
+
  ### <font color = "red"> This readme file is <sub>Under</sub> Construction</font>
+
+
 
 # PYTHON_COURSE_2024
  
