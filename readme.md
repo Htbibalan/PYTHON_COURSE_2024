@@ -1,6 +1,6 @@
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
 ![alt text](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
-<img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp" width="100%" alt="Image Title">
+<img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp" width="2200%" alt="Image Title">
 
 
  ### <font color = "red"> This readme file is <sub>Under</sub> Construction</font>
