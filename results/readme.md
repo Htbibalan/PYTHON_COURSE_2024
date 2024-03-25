@@ -1,1 +1,5 @@
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/surea.webp)
+
+
+![pie](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/plots/pie_doughnut.png)
+The pie plot wrapped by doughnut plot shows the distrubtion of tweets posted by Donald Trump between 2017-2020. There is an increase in the number of tweets posted by him as he gets towards the end of his period in the office. The doughnut plot also shows how many days out of 1461 days in the office he did not send any tweet.
