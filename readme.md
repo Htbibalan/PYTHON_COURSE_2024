@@ -10,4 +10,5 @@ The image created by DALL.E shows a 35mm film style photo of a man sitting in th
 ![the new york times](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/0126_ittart-jumbo.webp)
 "About 850 individuals were targets of former President Trump’s scorn on Twitter."
 © Mikki Janower for The New York Times
-#### Unlike what I expected, no coding, text mining or natural language processing was used to extract data from tweets posted by Donald Trump, rather a group of journalist lead by Kevin Quealy <sub>***manually*** </sub> read all the tweets and marked insults and targets! You can read more about this process in an interview published on [The New York Times ](https://www.nytimes.com/2021/01/26/insider/Trump-twitter-insults-list.html) 26.1.2021
+#### Unlike what I expected, no coding, text mining or natural language processing was used to extract data from tweets posted by Donald Trump, rather a group of journalist lead by Kevin Quealy <sub>***manually*** </sub> read all the tweets and marked insults and targets! You can read more about this process in an interview published on [The New York Times ](https://www.nytimes.com/2021/01/26/insider/Trump-twitter-insults-list.html).
+
