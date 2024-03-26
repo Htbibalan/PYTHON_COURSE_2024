@@ -28,7 +28,8 @@ However in general Trump sent most of his tweets on Sundays and fewer tweets on 
 
 
 ![day_of_week_break_down](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/plots/av_tweet_per_day_of_week.png) 
-Fig4) The plots shows activity pattern of Donald Trump on Twitter over days of a week.
+
+Fig4) The plot shows activity pattern of Donald Trump on Twitter over days of a week.
 
 
 ![model](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/plots/regres_markerstyle.png) 
@@ -46,8 +47,11 @@ Fig7) This plot shows the top 10 insulting terms used by the president of the ti
 ![which media](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/plots/which_media.png)
 Fig8) Since "the media" is on the top of the targets, in this plot I break down the top 5 media mentions in the list of targets. Seemingly "the media" in general is against him, but CNN and The New York Times specifically share an almost similar amount of tweets aimed at them.
 
+![top events](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/plots/top10dates_events.png)
+Fig9) Top 10 days with most tweets. The plot shows what major event happened on each of these days that ignited a surge in the tweets sent by Trump. The events that happened on each day was extracted by ChatGPT from sources on the internet. 
+
 ![which country](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/plots/map_pair.png)
-Fig9) Highlighting top 10 countries mentioned in the tweets. Politicians in "the IR" usually blame Trump to justify their failure in developing economy, they believe Trump is just sitting in the office and making troubles for us all the time. This map shows the times each country name was mentioned in his insulting tweets. Although Iran is among the top 10 countries with 77 mentions, but there is a wide gap between Russia and China and the US itself in terms of number of mentions, which shows Trump was "not" mostly busy thinking about "the IR" rather he was either posting about his own country or the eastern block competitors.
+Fig10) Highlighting top 10 countries mentioned in the tweets. Politicians in "the IR" usually blame Trump to justify their failure in developing economy, they believe Trump is just sitting in the office and making troubles for them all the time. This map shows the times each country name was mentioned in his insulting tweets. Although Iran is among the top 10 countries with 77 mentions, but there is a wide gap between Russia and China and the US itself in terms of number of mentions, which shows Trump was "not" mostly busy thinking about "the IR" rather he was either posting about his own country or the eastern block competitors.
 
 
 
