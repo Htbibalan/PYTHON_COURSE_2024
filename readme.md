@@ -1,5 +1,6 @@
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
-
+# "As a political figure, Donald J. Trump used Twitter to praise, to cajole, to entertain, to lobby, to establish his version of events — and, perhaps most notably, to amplify his scorn"
+                        Quoted from Kevin Quealy of "The New York Times" 19/01/2021
 
 
  ### <font color = "red"> This readme file is <sub>Under</sub> Construction</font>
