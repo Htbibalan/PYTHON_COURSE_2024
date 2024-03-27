@@ -1,6 +1,10 @@
-<!-- <img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="100" height="100" alt="Icon" title="Icon Title"> This repository is <sub>***under*** </sub> construction  -->
+<div align="center">
+    <img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="100" height="100" alt="Icon" title="Icon Title">
+</div>
 
-<img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="100" height="100" alt="Icon" title="Icon Title"> <span style="font-size: 80px;">This repository is <sub><b>under</b></sub> construction</span>
+
+### This repository is <sub>***under*** </sub> construction 
+
 
 
 
