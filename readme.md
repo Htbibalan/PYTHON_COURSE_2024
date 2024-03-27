@@ -2,13 +2,9 @@
     <img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="100" height="100" alt="Icon" title="Icon Title">
 </div>
 
-
-### This repository is <sub>***under*** </sub> construction 
-
-
-
-
-
+<div align="center">
+    <h3>This repository is <sub><b>under</b></sub> construction</h3>
+</div>
 
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
 The image created by DALL.E shows a 35mm film style photo of a man sitting in the oval office typing a letter
