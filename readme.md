@@ -1,6 +1,4 @@
-<img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="70" height="70" alt="Icon" title="Icon Title"> 
-
-# This repository is <sub>***under*** </sub> construction 
+<img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="100" height="100" alt="Icon" title="Icon Title"> This repository is <sub>***under*** </sub> construction 
 
 
 
