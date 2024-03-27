@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="100" height="100" alt="Icon" title="Icon Title">
+    <img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="120" height="120" alt="Icon" title="Icon Title">
 </div>
 
 <div align="center">
-    <h3>This repository is <sub><b>under</b></sub> construction</h3>
+    <h1>This repository is <sub><b>under</b></sub> construction</h1>
 </div>
 
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
