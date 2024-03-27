@@ -1,3 +1,8 @@
+# This repository is <sub>***under*** </sub> construction 
+![Icon](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp)
+
+
+
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
 The image created by DALL.E shows a 35mm film style photo of a man sitting in the oval office typing a letter
 
