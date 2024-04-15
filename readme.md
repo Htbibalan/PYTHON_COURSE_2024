@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
     <img src="https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/construct.webp" width="120" height="120" alt="Icon" title="Icon Title">
-</div>
+</div> -->
 
 <div align="center">
-    <h4>This repository works best in dark mode and on a vertical screen</h4>
+    <h4>This repository works best in dark mode and on a vertical screen &#x26A0;</h4>
 </div>
 
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
