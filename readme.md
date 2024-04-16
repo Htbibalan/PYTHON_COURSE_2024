@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-    <h4>This repository works best in dark mode and on a vertical screen &#x26A0;</h4>
+    <h3>&#x26A0; This repository works best in dark mode and on a vertical screen &#x26A0;</h3>
 </div>
 
 ![Banner Image](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/trump_old.webp)
@@ -28,7 +28,8 @@ The image created by DALL.E shows a 35mm film style photo of a man sitting in th
 
 #### In this project, I filtered the data and limited the tweets to posts between 2017-2020 which corresponds to his years in the office.
 
-^ I use the word "Tweets" and "Twitter" although the name of the brand is changed to X. Simply because I do not like the new name and logo!
+PS:
+^ *I use the word "Tweets" and "Twitter" although the name of the brand is changed to X. Simply because I do not like the new name and logo! and the data dates back to when the company was named Twitter*
 
 # The organization of this repository
 * **/data** stores .csv files containing data used in this project
@@ -53,7 +54,9 @@ The image created by DALL.E shows a 35mm film style photo of a man sitting in th
 
     Once created, make sure to switch to the newly created environment using the command below:
 
-                  activate data
+                  activate data 
+
+    Run your IDE (e.g. jupyter notebook) from this environment (data) and open the file ***hel8048_project.ipynb***.
 
 
 
@@ -81,6 +84,9 @@ The image created by DALL.E shows a 35mm film style photo of a man sitting in th
             OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
             SOFTWARE.
 
+# Author
+[Hamid Taghipour](https://github.com/Htbibalan) ,2024.
 
 
 
+[Back to Top](#Overview) &#x2B06;
