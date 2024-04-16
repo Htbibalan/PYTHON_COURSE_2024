@@ -18,6 +18,8 @@ The image created by DALL.E shows a 35mm film style photo of a man sitting in th
 # Overview
 #### This repository primarily contains data, Python scripts, and plots for a project required by the course **HEL-8048-1 24V Advanced Data Analysis and Visualization Using Programming** at UiT The Arctic University of Norway. Below you will find more information about the organization of this repository, the source of data and further necessary details.
 
+#### In this project I have mainly used Pandas to manage, filter and sort the data. Different methods and functions from Matplotlib are used to adjust plotting and data visualization. The notebook ***hel8048_project.ipynb*** contains the process of grouping data and making plots (i.e not just the end result). Several visualization styles are used to plot the data. Finally 10 figures of all generated plots are displayed in the folder ../results.  
+
 # The source and structure of data
 
 ![the new york times](https://github.com/Htbibalan/PYTHON_COURSE_2024/blob/main/source/0126_ittart-jumbo.webp)
